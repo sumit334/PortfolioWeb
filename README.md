@@ -38,7 +38,7 @@ The following technologies were used to build this portfolio website:
 ## Installation
 To view the website locally on your computer, follow these steps:  
 
-1.Clone the repository: git clone https://github.com/your-username/your-portfolio.git  
+1.Clone the repository: git clone https://github.com/sumit334/PortfolioWeb.git
 2.Navigate to the project folder: cd your-portfolio  
 3.Open the index.html file in your web browser.  
 ## Usage
